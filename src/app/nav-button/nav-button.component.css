@@ -1,0 +1,15 @@
+my-nav-button .big {
+    font-size: 1.5em;
+}
+
+my-nav-button.italics span {
+    font-style: italic;
+}
+
+my-nav-button button {
+    background-color: transparent;
+    border: 0;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: underline;
+}
